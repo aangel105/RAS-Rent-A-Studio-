@@ -1,7 +1,7 @@
 # RAS (Rent A Studio)
 RAS is an application that allows users to book a studio in NYC in a simple and effective way. At the same time, it allows studio owners to host and promote their studios in our application, which will increase traffic to their place. 
 
-# DATABASE SCHEMA
+# Database Schema
 
 .users
  -get all users from the database
@@ -72,7 +72,7 @@ RAS is an application that allows users to book a studio in NYC in a simple and 
 ./newstudio
  -create new studios by host
 
-#Front-End
+# Front-End
 
 ./hostprofile
  -render the host profile, accounts, reviews, bookings
@@ -94,11 +94,3 @@ RAS is an application that allows users to book a studio in NYC in a simple and 
 
 ./login
  -render a login form where existing users or host can login to their profile
-
- 
-
-
-
-
-
-
